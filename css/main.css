@@ -35,3 +35,8 @@ a {
 button:focus {
   outline: none;
 }
+@media (max-width: 700px) {
+  .desktop{
+    display: none;
+  }
+}
